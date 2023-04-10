@@ -5,7 +5,6 @@
   "main": "latest.js",
   "author": "@nano2dev <hello@fwd.dev>",
   "license": "MIT",
-  "homepage": "https://github.com/fwd/nano-offline",
   "repository": {
     "type": "git",
     "url": "git@github.com:fwd/nano-offline.git"
